@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "408CE2DCA48E1C1D85D36D692F398720F570E226",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "408CE2DCA48E1C1D85D36D692F398720F570E226" : 9223372036854775807,
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4F0AEE09-1A53-4AFA-B6BB-9EDE699ADFEB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "408CE2DCA48E1C1D85D36D692F398720F570E226" : "Humetrics\/",
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "Humetrics\/Packages\/Jay-1.0.1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Humetrics",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Humetrics.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.heroku.com\/humetrics.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "408CE2DCA48E1C1D85D36D692F398720F570E226"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DanToml\/Jay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC"
+    }
+  ]
+}

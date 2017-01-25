@@ -16,6 +16,14 @@ drop.get { req in
     ])
 }
 
+drop.get("status") { req in
+	return try drop.view.make("welcome", [
+		"message": drop.localization[req.lang, "welcome", "status"]
+		])
+}
+
+
+
 drop.get("metrics") { req in
 	let metrics = try Metric.all().makeNode()
 	let metricsDictionary = ["metrics" : metrics]
